@@ -1,0 +1,95 @@
+body{
+	background-color: #fafafa;
+	font-family: sans-serif;
+}
+
+.container{
+	width: 800px;
+	margin: 0px auto;
+	margin-top: 40px;
+	display: flex;
+}
+.gambar{
+	width: 50%;
+}
+.img-instagram{
+	width: 100%;
+}
+
+.card-wrapper{
+	width: 50%;
+}
+
+.card{
+	border-style: solid;
+	border-color: #f0f0f0;
+	border-width: 2px;
+	text-align: center;
+	background-color: white;
+	padding-bottom: 30px;
+	padding-top: 30px;
+}
+
+.logo{
+	width: 180px;
+	text-align: center;
+}
+
+.form{
+	margin-top: 30px;
+}
+
+.input{
+	width: 300px;
+	height: 30px;
+	border: 1px solid#grey;
+	border-radius: 5px;
+	padding: 4px;
+	margin-top: 10px;
+}
+
+.login{
+	background-color: #0095f6;
+	border: 0px solid transparent;
+	margin-top: 20px;
+	width: 300px;
+	height: 30px;
+	border-radius: 5px;
+	color: white;
+}
+
+.loginwith{
+	color: blue;
+	text-decoration: 0;
+}
+
+
+.forgot{
+	color: grey;
+	text-decoration: 0;
+	font-size: 12px;
+}
+
+.link-signup{
+	color: blue;
+	text-decoration: 0;
+}
+
+.google{
+	width: 120px;
+}
+
+.daftar{
+	border-style: solid;
+	border-color: #f0f0f0;
+	border-width: 2px;
+	text-align: center;
+	background-color: white;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+.getapp{
+	text-align: center;
+
+}
